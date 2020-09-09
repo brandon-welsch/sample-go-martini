@@ -1,4 +1,4 @@
-web: sample-go-martini
+web: sample-go-marini
 web: test
 test: yolo
 worker: mdr
