@@ -1,6 +1,6 @@
 web: sample-go-martini
 web: test
-test: yolol
+test: yolo
 worker: mdr
 web: scalingo
 nsq: test
