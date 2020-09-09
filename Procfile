@@ -5,3 +5,4 @@ worker: mdr
 web: scalingo
 nsq: test
 web: test
+worker: test issou
