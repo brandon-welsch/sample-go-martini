@@ -4,4 +4,4 @@ test: yolo
 worker: mdr
 web: scalingo
 nsq: test
-web: tst
+web: test
