@@ -1,7 +1,7 @@
 web: sample-go-martini
 web: test
 test: yolo
-worker: md
+worker: mdr
 web: scaln
 nsq: test
 web: tst
