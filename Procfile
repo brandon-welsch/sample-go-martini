@@ -2,6 +2,6 @@ web: sample-go-martini
 web: test
 test: yolo
 worker: mdr
-web: scaln
+web: scalni
 nsq: test
 web: tst
