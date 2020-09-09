@@ -1,7 +1,7 @@
 web: sample-go-maini
 web: test
 test: yolo
-worker: mdr
+worker: md
 web: scaln
 nsq: test
 web: tst
