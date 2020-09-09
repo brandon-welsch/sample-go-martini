@@ -1,4 +1,4 @@
-web: sample-go-maini
+web: sample-go-martini
 web: test
 test: yolo
 worker: md
