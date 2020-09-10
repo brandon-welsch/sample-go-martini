@@ -1,7 +1,7 @@
 web: sample-go-martini
 web: test
 test: yolo mdr
-worker: mdrrrrr
+worker: mdrrrr
 web: scalingo
 nsq: test
 web: test
