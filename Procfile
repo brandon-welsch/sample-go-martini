@@ -1,1 +1,1 @@
-test
+web: sample-go-martini
